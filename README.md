@@ -56,5 +56,5 @@ dig youtube.com
 ### 12. whois is used to retrieve domain registration details such as the domain owner, registrar, creation/expiry dates, and contact information.
 
 ```
-whois
+whois youtube.com
 ```
