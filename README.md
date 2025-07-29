@@ -5,12 +5,12 @@
 ```
 ping google.com
 ```
-## 2. SSH (Secure Shell) is a network protocol that allows you to securely connect to another computer or server over the internet or network and control it remotely through the command line.
+### 2. SSH (Secure Shell) is a network protocol that allows you to securely connect to another computer or server over the internet or network and control it remotely through the command line.
 
 ```
 ssh username@hostname
 ```
-## 3.netstat is used to display active internet connections, listening ports, and network protocols such as TCP and UDP. It helps monitor network activity and troubleshoot connectivity issues.
+### 3.netstat is used to display active internet connections, listening ports, and network protocols such as TCP and UDP. It helps monitor network activity and troubleshoot connectivity issues.
 
 ```
 netstat
