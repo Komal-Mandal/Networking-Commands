@@ -58,3 +58,13 @@ dig youtube.com
 ```
 whois youtube.com
 ```
+### 13. curl is used to send and receive data from a server (like calling APIs).
+
+```
+curl -X GET https://example.com
+```
+
+### 14. wget is used to download files from the internet and save them locally.
+```
+wget https://example.com/file.pdf
+```
