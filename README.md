@@ -68,3 +68,13 @@ curl -X GET https://example.com
 ```
 wget https://example.com/file.pdf
 ```
+### 15. nmap (Network Mapper) is a command-line tool used to scan and discover devices, open ports, and services on a network.
+
+```
+ nmap -v google.com
+```
+### 16. curl is a command-line tool used to send requests to servers and get responses
+
+```
+curl https://example.com
+```
